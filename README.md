@@ -1,4 +1,4 @@
-## AI Researcher / developer
+## AI Researcher / Engineer
 - AI Researcher in [Metaverse Entertainment](https://www.meta-ent.com), Sep. 2022 ~ present
 
 ## Education
@@ -15,3 +15,4 @@
 - Virtual Human, Virtual Idol
 - VR, AR
 - Computer Vision
+- Animation
