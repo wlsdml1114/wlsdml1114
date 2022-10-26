@@ -1,4 +1,4 @@
-## AI Researcher / Engineer
+## Now
 - AI Researcher in [Metaverse Entertainment](https://www.meta-ent.com), Sep. 2022 ~ present
 
 ## Education
