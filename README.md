@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**wlsdml1114/wlsdml1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now
+- AI Researcher Sep. 2022 ~ present
 
-Here are some ideas to get you started:
+## Education
+- M.S.E., School of Computer Science and Engineering, College of Information Technology, Soongsil University, Seoul, Korea, Mar. 2018 ~ Aug. 2019.
+  - [Machine Learning Lab](http://ml.ssu.ac.kr)
+- B.S.E., School of Computer Science and Engineering, College of Information Technology, Soongsil University, Seoul, Korea, Mar. 2014 ~ Feb. 2018.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Others
+- Military Service: Technical Research Personnel in [KOAST](http://koast.net) (Korea Oceanic & Atmospheric System Technology), Aug. 2019. ~ Aug. 2022.
+  - as AI researcher and ML engineer
+  
+## Interest
+- Metaverse
+- Virtual Human, Virtual Idol
+- VR, AR
+- Computer Vision
+- Animation
